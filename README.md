@@ -1,2 +1,4 @@
-# drf-flexible-jwt-auth
-Alternative implementation of the JWT Auth concept
+Flexible JWT Auth plugin for Django Rest Framework
+==================================================
+
+Alternative implementation of the JWT Auth concept.
